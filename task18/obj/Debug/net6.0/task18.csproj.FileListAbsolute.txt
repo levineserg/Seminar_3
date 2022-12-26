@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\Seminar3\task18\bin\Debug\net6.0\task18.exe
+G:\Мой диск\GB\C#\Seminar3\task18\bin\Debug\net6.0\task18.deps.json
+G:\Мой диск\GB\C#\Seminar3\task18\bin\Debug\net6.0\task18.runtimeconfig.json
+G:\Мой диск\GB\C#\Seminar3\task18\bin\Debug\net6.0\task18.dll
+G:\Мой диск\GB\C#\Seminar3\task18\bin\Debug\net6.0\task18.pdb
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.AssemblyInfo.cs
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.dll
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\refint\task18.dll
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.pdb
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\task18.genruntimeconfig.cache
+G:\Мой диск\GB\C#\Seminar3\task18\obj\Debug\net6.0\ref\task18.dll
